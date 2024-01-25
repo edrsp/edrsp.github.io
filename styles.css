@@ -1,17 +1,11 @@
 * {
-	box-sizing: border-box;
 }
 
-body {
-	margin: 0;
-	margin-top: 0;
-	font-family: sans-serif;
-	background-color: #ffffff;
+nav {
 }
 
 nav ul {
 	list-style-type: none;
-	margin: 0;
 	padding: 0;
 	overflow: hidden;
 	background-color: #333;
@@ -34,10 +28,6 @@ nav ul li a:hover {
 }
 
 main {
-	background-color: #eeeeec;
-	width: 90%;
-	margin: auto;
-	padding: 10px 10px 10px 10px;
 }
 
 .right {
